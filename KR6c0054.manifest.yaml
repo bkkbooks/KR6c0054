@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0054_000.yaml, hash: 'sha256:e7dccb8deaccc9b24985d6356d06bdbf4d9465acf427fd7251c017aea9815b11'}
+  - {seq: 0, filename: KR6c0054_000.yaml, hash: 'sha256:66d6e56c0328b4fbc66112ad61912d442f930f60c9affa3eca79d678aca7d40f'}
   - {seq: 1, filename: KR6c0054_001.yaml, hash: 'sha256:93fa703a36790f8ac5deffcf5fe33a2410930d9e5409c31f1eaf43fe15baa117'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0054_000.markers.yaml, hash: 'sha256:f986b7ac0accd2987487d165d516cb086768c096ed3e2e00654271b7e435dda8'}
+  - {seq: 0, role: markers, filename: assets/KR6c0054_000.markers.yaml, hash: 'sha256:a1a1786aaec54ec1adc7d289e4b190e92ab42944c3b05f9fb992e13c8b8c1bb8'}
   - {seq: 1, role: markers, filename: assets/KR6c0054_001.markers.yaml, hash: 'sha256:239c1fb2f9af6083864ce98179b8430f5eb8d26e818616303a7ed0ee2899aa76'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0054_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 466-A
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0054_X_000-mulu-2
     span:
-    - front
+    - body
     - 336
     - 336
   label: No. 466-B
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0054_X_000-mulu-3
     span:
-    - front
+    - body
     - 414
     - 414
   label: 金剛經科釋
@@ -77,7 +77,7 @@ table_of_contents:
   label: No. 466-C
   type: mulu
   level: 1
-hash: sha256:0ac6066ca596f7f1a0c4b9a25b792d5f59fd47ed3ff5c91172a9d7abb136abea
+hash: sha256:f92c71a2bfdf7bfa3486ee35651bb1b499948ec349b752038714d3caa833aa79
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
